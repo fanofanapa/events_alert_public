@@ -1,0 +1,9 @@
+.env
+cookies.txt
+activities.json
+known_ids.json
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
